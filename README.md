@@ -1,7 +1,7 @@
 # 🌗 Flutter Theme Lab
 
 A simple and customizable Flutter project to experiment with light/dark theme switching.  
-Ideal for learning how to build dynamic theming systems using BLoC or Provider.
+Ideal for learning how to build dynamic theming systems using BLoC.
 
 ## ✨ Features
 
