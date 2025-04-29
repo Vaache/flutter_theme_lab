@@ -6,8 +6,7 @@ Ideal for learning how to build dynamic theming systems using BLoC or Provider.
 ## ✨ Features
 
 - 🔄 Toggle between light and dark modes
-- 💡 Theme persistence with `SharedPreferences`
-- 🎯 Built using modern Flutter architecture (BLoC or ChangeNotifier)
+- 🎯 Built using modern Flutter architecture BLoC
 - 🧪 Easy to test and extend
 - 🎬 Switch themes by tapping the YouTube icon in the top right corner
 
