@@ -1,16 +1,20 @@
-# youtube
+# 🌗 Flutter Theme Lab
 
-A new Flutter project.
+A simple and customizable Flutter project to experiment with light/dark theme switching.  
+Ideal for learning how to build dynamic theming systems using BLoC or Provider.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- 🔄 Toggle between light and dark modes
+- 💡 Theme persistence with `SharedPreferences`
+- 🎯 Built using modern Flutter architecture (BLoC or ChangeNotifier)
+- 🧪 Easy to test and extend
+- 🎬 Switch themes by tapping the YouTube icon in the top right corner
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 1. Clone the repo
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone git@github.com:Vaache/flutter_theme_lab.git
+cd flutter_theme_lab
